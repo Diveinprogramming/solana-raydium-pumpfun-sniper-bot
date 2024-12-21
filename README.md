@@ -1,5 +1,4 @@
-
-## Installation
+How to run Solana-Raydium-Pumpfun-Sniper-Bot
 
 ## 1 Clone
 
@@ -7,8 +6,13 @@
 git clone https://github.com/Diveinprogramming/solana-raydium-pumpfun-sniper-bot.git
 cd solana-raydium-pumpfun-sniper-bot
 ```
+## 2 Install Modules
 
-## 2 Load env parameters
+```bash
+npm install
+```
+
+## 3 Load env parameters
 
 RPC_URL =https://api.mainnet-beta.solana.com
 
@@ -22,7 +26,9 @@ JITO_TIP = 0.000005
 
 SNIPER_INTERVAL = 3000
 
-## 3 Run bot 
+
+
+## 4 Run bot 
 
 ```bash
 npm start
@@ -31,10 +37,9 @@ npm start
 ![ Running bot ](solana-sniper-bot.png)
 
 
-## 4 Signatures
+## 5 Signatures
 
 ```bash
 3ovim5X1hZNprVXxqTv3k6Kb9eC4FudepHydZegdJwoAiTDGtWBvCixaucw3GNMUTT47Rk8w64JaYKWpJQniQHw8
 ```
-## 5 enjoy profits
 
