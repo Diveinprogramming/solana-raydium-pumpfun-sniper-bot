@@ -11,10 +11,15 @@ cd solana-raydium-pumpfun-sniper-bot
 ## 2 Load env parameters
 
 RPC_URL =https://api.mainnet-beta.solana.com
+
 TARGET_TOKEN =TOKEN_MINT_ADDRESS_HERE
-WALLET_PRIVATE_KEY =3VDzMC2qeZH9EWh4Jur6sDtHzH1Mmdbwkxms7pCcWK77qtkPj4YBPcFUBDoYgWJVJYZBskvppuHf5feioPciVqRD
+
+WALLET_PRIVATE_KEY =
+
 BUY_PRICE_LIMIT = 0.01
+
 JITO_TIP = 0.000005
+
 SNIPER_INTERVAL = 3000
 
 ## 3 Run bot 
